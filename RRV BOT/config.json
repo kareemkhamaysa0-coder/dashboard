@@ -1,7 +1,5 @@
 {
-"TOKEN": "",
   "clientId": "1461062619203899555",
   "guildId": "1459264195336863870",
-  "dashboardSecret": "",
-  "prefix": "/" 
+  "prefix": "/"
 }
